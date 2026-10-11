@@ -30,7 +30,7 @@ Philippines (President's Lister). Based in Laguna, Philippines. **Open to softwa
 #### Before software
 
 Freelance video editor for a year: long- and short-form edits with AI-generated B-roll
-(Higgsfield, Veo, Kling) and a 100% on-time delivery rate. The reel is on my
+(Higgsfield, Veo, Kling) and a 100% on-time delivery rate. Samples are on my
 [video editing portfolio](https://dreylancer.my.canva.site/personal-portfolio).
 
 #### Tools I use
