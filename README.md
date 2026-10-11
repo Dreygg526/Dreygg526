@@ -2,7 +2,7 @@
 
 I build the internal tools a team runs on: full-stack Next.js, TypeScript and Supabase, shipped to
 production rather than to a demo. Computer Engineering at the Polytechnic University of the
-Philippines (President's Lister). Based in Laguna, Philippines. **Open to software engineering roles.**
+Philippines (President's Lister). Based in Laguna, Philippines. **Open to software and hardware roles.**
 
 **Portfolio:** [roan-cv-portfolio.vercel.app](https://roan-cv-portfolio.vercel.app) ·
 **Email:** [roanuson.work@gmail.com](mailto:roanuson.work@gmail.com) ·
